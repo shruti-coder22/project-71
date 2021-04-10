@@ -1,0 +1,92 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+
+
+input
+{
+    background: grey;
+}
+
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.movie-head {
+    padding: 6px 22px;
+    display:inline-block;
+    border-radius: 10px;
+    margin:20px;
+    font-size:20;
+    width: 100%;
+}
+
+.movie-head i {
+   float:right; 
+}
+
+.school {
+    padding: 20 px;
+}
+
+p {
+    padding: 20 px;
+}
